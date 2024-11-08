@@ -1,6 +1,5 @@
 # Diversity-And-Inclusion
-
-Enhanced transparency and tracked progress on diversity and inclusion goals by defining key performance indicators (KPIs) in hiring, promotion, performance, and turnover. Created visual and accessible Power BI dashboards to translate complex D&I data into real-time insights on demographics, employee engagement, and inclusion metrics. Supported leadership in making data-driven decisions to growth a diverse and inclusive workplace.
+This project analyzes hiring, promotion, turnover, and performance trends to identify gender imbalances and retention challenges. Key findings include a gender gap at senior and executive levels, lower female promotion rates, and a correlation between lower performance and higher turnover. The project offers recommendations to improve gender diversity, support performance development for women, reduce turnover, and enhance succession planning for senior roles.
 
 
 ## Dataset :-
