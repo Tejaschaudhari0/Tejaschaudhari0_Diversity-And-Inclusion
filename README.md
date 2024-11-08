@@ -25,5 +25,18 @@ Define relevant KPIs in hiring, promotion, performance and turnover, and create 
 
 ![Screenshot 2024-11-08 162802](https://github.com/user-attachments/assets/c9cd71ca-eb12-401d-aa70-48189f0e672f)
 
+
 # Project Insights :-
+Gender in Hiring: 
+- 59% male, 41% female hires; fewer females at senior levels.
+Promotions:
+- More common at senior levels, but fewer female promotions at top levels.
+Turnover Rates:
+- Higher turnover at senior levels with lower performance ratings.
+Performance Ratings:
+- Gender gap is small, but more men in top ratings and more women in mid-level ratings.
+Executive Gender Imbalance:
+- Female representation in executive roles is very low (12.5% to 15.79%).
+Age Distribution: 
+- Majority of employees are aged 20-39, with fewer older employees.
 
