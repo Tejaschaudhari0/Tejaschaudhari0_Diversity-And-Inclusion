@@ -8,9 +8,9 @@ Enhanced transparency and tracked progress on diversity and inclusion goals by d
 
 ## Question :-
 Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
-- # of men
-- # of women
-- # of leavers
+- #of men
+- #of women
+- #of leavers
 - % employees promoted (FY21)
 - % of women promoted
 - % of hires men
@@ -21,6 +21,8 @@ Define relevant KPIs in hiring, promotion, performance and turnover, and create 
 
 ## Dashboard :-
 ![Screenshot 2024-11-08 162749](https://github.com/user-attachments/assets/90617be7-141d-4548-85e2-74717bab1776)
+
+
 ![Screenshot 2024-11-08 162802](https://github.com/user-attachments/assets/c9cd71ca-eb12-401d-aa70-48189f0e672f)
 
 # Project Insights :-
